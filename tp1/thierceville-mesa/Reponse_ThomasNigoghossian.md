@@ -24,7 +24,7 @@ Inversement, si on augmente le nombre de lycanthropes, on observe une convergenc
 # Q 3
 
 Sur la figure 1, on a représenté la situation "moyenne". C'est à dire qu'en moins de 100 itérations, il y a plus de loup-garous que d'humains. 
-![Figure 1](.\imgs\Q3\fig1.png)
+![Figure 1](./imgs/Q3/fig1.png)
 
 
 # Q 4
