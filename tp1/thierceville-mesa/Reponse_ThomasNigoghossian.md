@@ -24,20 +24,20 @@ Inversement, si on augmente le nombre de lycanthropes, on observe une convergenc
 # Q 3
 
 Sur la figure 1, on a représenté la situation "moyenne". C'est à dire qu'en moins de 100 itérations, il y a plus de loup-garous que d'humains. 
-![Figure 1](imgs\Q3\fig1.png)
+![Figure 1](\imgs\Q3\fig1.png)
 
 
 # Q 4
 
 Maintenant si on augmente le nombre d'apothicaires, on se rend compte que cette transition se fait plus tardivement. (Environ vers 200 itérations cf figure 2.)
-![Figure 2](imgs\Q3\fig2.png)
+![Figure 2](\imgs\Q3\fig2.png)
 
 
 Cependant, les différentes simulations montrent que les apothicaires, peu importe leur nombre, ne viennent jamais à bout de l'épidémie, car ils n'ont pas de pouvoir sur les lycanthropes transformés.
 
 Les chasseurs ont le même rôle que les apothicaires lorsqu'ils sont minoritaires dans la population. Ils ralentissent en effet la propagation des loup-garous. Néanmoins, lorsque les chasseurs sont très largement majoritaires (30 ici contre 5 loup garous), il est possible de converger vers un état stable sans ou avec peu de lycanthropes. Dans le cas où il reste des lycanthropes, ceux-ci évoluent principalement dans des coins, en marge du reste de la population.
 
-![Figure 3](imgs\Q3\fig3.png)
+![Figure 3](\imgs\Q3\fig3.png)
 
 
 # Q 5
